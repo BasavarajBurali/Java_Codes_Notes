@@ -13,5 +13,6 @@ public class MinAndMaxNumber {
             }
         }
         System.out.println("min "+min+" "+"max "+max );
+        System.out.println("min "+min+" "+"max "+max );
     }
 }
