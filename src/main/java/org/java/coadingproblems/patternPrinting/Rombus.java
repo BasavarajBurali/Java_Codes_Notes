@@ -1,4 +1,4 @@
-package org.java.patternPrinting;
+package org.java.coadingproblems.patternPrinting;
 
 public class Rombus {
     public static void main(String[] args) {

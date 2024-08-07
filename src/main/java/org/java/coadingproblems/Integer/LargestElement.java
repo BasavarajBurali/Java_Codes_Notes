@@ -1,4 +1,4 @@
-package org.java.Integer;
+package org.java.coadingproblems.Integer;
 //Problem Statement: Given an array, we have to find the largest element in the array.
 public class LargestElement {
     public static void main(String[] args) {

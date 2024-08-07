@@ -1,4 +1,4 @@
-package org.java.patternPrinting;
+package org.java.coadingproblems.patternPrinting;
 
 public class NumberPrinting {
     public static void main(String[] args) {

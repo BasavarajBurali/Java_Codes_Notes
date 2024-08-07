@@ -1,4 +1,4 @@
-package org.java.Integer;
+package org.java.coadingproblems.Integer;
 
 public class MinAndMaxNumber {
     public static void main(String[] args) {

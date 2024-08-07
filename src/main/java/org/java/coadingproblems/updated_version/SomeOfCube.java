@@ -1,4 +1,4 @@
-package org.java.updated_version;
+package org.java.coadingproblems.updated_version;
 
 import java.util.Scanner;
 
