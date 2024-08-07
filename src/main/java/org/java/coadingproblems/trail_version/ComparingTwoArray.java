@@ -1,4 +1,4 @@
-package org.java.trail_version;
+package org.java.coadingproblems.trail_version;
 
 public class ComparingTwoArray {
     public static void main(String[] args) {

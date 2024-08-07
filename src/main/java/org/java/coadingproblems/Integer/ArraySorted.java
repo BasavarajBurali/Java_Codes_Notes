@@ -1,4 +1,4 @@
-package org.java.Integer;
+package org.java.coadingproblems.Integer;
 
 //Debug this again
 class  ArraySorted{

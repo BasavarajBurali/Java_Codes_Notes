@@ -1,4 +1,4 @@
-package org.java.Integer;
+package org.java.coadingproblems.Integer;
 
 class Solution {
     static long sumOfDivisors(int N) {

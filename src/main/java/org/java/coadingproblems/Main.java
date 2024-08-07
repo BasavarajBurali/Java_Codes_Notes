@@ -1,4 +1,4 @@
-package org.java;
+package org.java.coadingproblems;
 
 import java.util.Arrays;
 

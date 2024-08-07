@@ -1,4 +1,4 @@
-package org.java.trail_version;
+package org.java.coadingproblems.trail_version;
 
 import java.util.Arrays;
 

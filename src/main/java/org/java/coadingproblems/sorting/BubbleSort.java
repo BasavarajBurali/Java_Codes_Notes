@@ -1,4 +1,4 @@
-package org.java.sorting;
+package org.java.coadingproblems.sorting;
 
 public class BubbleSort {
     public static void main(String[] args) {
