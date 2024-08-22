@@ -3,7 +3,7 @@ package java8ByDurgesh.lambda;
 public class Main {
     public static void main(String[] args) {
 
-//     MyInterface   i=new MyInterface(){
+//    MyInterface   i=new MyInterface(){
 //
 //            @Override
 //            public void myMethod() {
@@ -12,8 +12,8 @@ public class Main {
 //        };
 //     i.myMethod();
 
-//       MyInterface i= ()->System.out.println("this is first time i am using lambda");
-//       i.myMethod();
+      MyInterface i= ()->System.out.println("this is first time i am using lambda");
+            i.myMethod();
 
 
           //second interface
