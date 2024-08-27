@@ -3,7 +3,7 @@ package org.java.coadingproblems.Integer;
 public class PrimeNumber {
     public static void main(String[] args) {
 
-        int number=32;
+        int number=31;
         boolean isPrime=true;
         for (int i=2;i<number;i++){
             if (number%i==0){
