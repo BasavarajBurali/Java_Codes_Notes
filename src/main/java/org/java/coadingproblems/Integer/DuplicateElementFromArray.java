@@ -24,9 +24,12 @@ public class DuplicateElementFromArray {
         return list;
     }
 
+
     public static void main(String[] args) {
         int[] array = {1, 2, 3, 4, 5, 1, 2};
         List<Integer> v = duplicateElement(array);
-        System.out.println(v.toString());
+    //   System.out.println(v.toString());
+
+
     }
 }
