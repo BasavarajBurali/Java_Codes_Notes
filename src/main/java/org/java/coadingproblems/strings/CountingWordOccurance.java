@@ -1,10 +1,9 @@
-package org.java.coadingproblems;//package org.java.codingproblems;
+package org.java.coadingproblems.strings;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class Main {
-
+public class CountingWordOccurance {
     public static void main(String[] args) {
         String s = "error maam error how are you";
         String[] s1 = s.split(" ");
